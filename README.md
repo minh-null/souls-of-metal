@@ -1,3 +1,7 @@
+Go to Soilad for new update, this game is dead (python verison only)
+
+
+
 # Souls of Metal
 
 A ripoff of a ripoff of Hearts of Iron 4. Inspired by Gav's *Spirits of Steel: A 
